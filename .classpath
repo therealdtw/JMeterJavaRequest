@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/i818712/Downloads/apache-jmeter-4.0/apache-jmeter-4.0/lib/ext/ApacheJMeter_core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/i818712/Downloads/apache-jmeter-4.0/apache-jmeter-4.0/lib/ext/ApacheJMeter_java.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/cecore.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/celib.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/cereports.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/cesession.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/corbaidl.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/ebus405.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/i818712/Downloads/apache-jmeter-4.0/apache-jmeter-4.0/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/i818712/Downloads/apache-jmeter-4.0/apache-jmeter-4.0/lib/slf4j-ext-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/i818712/Downloads/apache-jmeter-4.0/apache-jmeter-4.0/lib/jorphan.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/lib_bi_4.1.7.x/webreporting.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
